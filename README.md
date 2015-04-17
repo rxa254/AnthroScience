@@ -8,7 +8,7 @@ Data Analysis of Pasadena City Data in the spirit of New York City's CUSP
 4. [UrbanCCD in Chicago](https://urbanccd.org/)
 5. [Synthicity](http://www.synthicity.com/)
 6. [London](http://datasciencelondon.org/)
-7. []
+7. [Civic Innovation Lab - Los Angeles](http://www.civicinnovationlab.la/)
 
 ### News Stories
 1. [WSJ - Oct 2014](http://www.wsj.com/articles/theyre-tracking-when-you-turn-off-the-lights-1413854422)
