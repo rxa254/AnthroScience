@@ -20,3 +20,8 @@ Data Analysis of Pasadena City Data in the spirit of New York City's CUSP
 1. [Data Vis Tools](http://www.uie.com/articles/data_visualization_tools/)
 2. [D3 PLot Gallery](https://github.com/mbostock/d3/wiki/Gallery)
 3. 
+
+### Ideas of What to Munge
+1. Pharma paying off local doctors: what correlations, what plots
+2. Kickbacks to local politicians
+3. 
