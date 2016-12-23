@@ -1,5 +1,5 @@
 # Pasadena City Science
-Data Analysis of Pasadena City Data in the spirit of New York City's CUSP
+Data Analysis of Data in the spirit of New York City's CUSP
 
 ## References and Links
 1. [CUSP NYU](http://cusp.nyu.edu/)
@@ -24,4 +24,4 @@ Data Analysis of Pasadena City Data in the spirit of New York City's CUSP
 ### Ideas of What to Munge
 1. Pharma paying off local doctors: what correlations, what plots
 2. Kickbacks to local politicians
-3. 
+3. Spending on science as a function of other social variables
